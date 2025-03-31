@@ -9,7 +9,7 @@ There were found 11 statistically significant features that can be used in AI mo
 patients with and without kidney stones.
 
 Details about my work on this topic are descriped in paper "Izdvajanje obeležja na segmentiranim  
-kalkulozama u bubrezima" which can be found in file ABS_projekat.pdf of this repository. This work has been written by menthorship of proffesor PhD Milica Janković as student project on course "Analisys of biomedical image".
+kalkulozama u bubrezima" which can be found in file ABS_projekat.pdf of this repository. This work has been written by mentorship of professor PhD Milica Janković as student project on course "Analysis of biomedical image".
 
 Technologies that were used:
 - LifeX software
